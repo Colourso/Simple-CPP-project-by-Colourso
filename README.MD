@@ -6,9 +6,11 @@
 
 ## RetroSnaker_Colourso
 
-一个贪吃蛇的小游戏。
+一个简单的贪吃蛇小游戏。
 
 VS2017 + [Easyx](https://easyx.cn/)制作。
+
+Easyx是针对 C++ 的图形库，可以帮助 C 语言初学者快速上手图形和游戏编程。其官网( https://easyx.cn/ )有下载以及安装教程和使用范例。
 
 ### RetroSnaker_0.1
 
@@ -16,9 +18,9 @@ VS2017 + [Easyx](https://easyx.cn/)制作。
 
 相关说明：[C++基于EasyX制作贪吃蛇游戏（一）文档](http://www.colourso.top/c-snake-pro0/)
 
-内含动画演示： [http://www.colourso.top/c-snake-pro2/](http://www.colourso.top/c-snake-pro2/ ) 
+内含动画演示： [ C++基于EasyX制作贪吃蛇游戏（二）第一版代码与程序简单更新 ](http://www.colourso.top/c-snake-pro2/ ) 
 
-程序下载：
+程序下载：[Download](https://github.com/Colourso/Simple-CPP-project-of-Colourso/releases/tag/RetroSnaker_v0.2)
 
 ### RetroSnaker_0.2
 
@@ -28,4 +30,4 @@ VS2017 + [Easyx](https://easyx.cn/)制作。
 
 内含动画演示：[C++基于EasyX制作贪吃蛇游戏（四）第二版代码与程序](http://www.colourso.top/c-snake-pro4/#)
 
-程序下载：
+程序下载：[Download](https://github.com/Colourso/Simple-CPP-project-of-Colourso/releases/tag/RetroSnaker_v0.2)
