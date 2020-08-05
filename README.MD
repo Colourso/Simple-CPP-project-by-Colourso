@@ -40,5 +40,5 @@ Easyx是针对 C++ 的图形库，可以帮助 C 语言初学者快速上手图�
 
 内含动画演示：[C++基于EasyX制作贪吃蛇游戏（六）第三版代码与程序](http://www.colourso.top/c-snake-pro6/)
 
-程序下载：Download
+程序下载：[Download](https://github.com/Colourso/Simple-CPP-project-by-Colourso/releases/tag/RetroSnaker-v0.3)
 
